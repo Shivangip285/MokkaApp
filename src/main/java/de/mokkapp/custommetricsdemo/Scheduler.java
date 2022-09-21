@@ -1,4 +1,4 @@
-package de.mokkapps.custommetricsdemo;
+package de.mokkapp.custommetricsdemo;
 
 import io.micrometer.core.instrument.Counter;
 import io.micrometer.core.instrument.MeterRegistry;

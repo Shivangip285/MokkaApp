@@ -1,4 +1,4 @@
-package de.mokkapps.custommetricsdemo;
+package de.mokkapp.custommetricsdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
